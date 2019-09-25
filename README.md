@@ -5,3 +5,8 @@ Repository di Informatica della classe 4M
 
 ## Introduzione
 - [concetti fondamentali dell'informatica](http://aptiva.v2.cs.unibo.it/wiki/index.php/Concetti_fondamentali_dell%27Informatica)
+
+## Ingegneria del SW
+Vai al mercato e compra un litro di latte, se hanno le uova prendine sei
+![](https://swaltersky.files.wordpress.com/2012/02/tire-swing-cartoon.jpg)
+
