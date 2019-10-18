@@ -10,3 +10,6 @@ Repository di Informatica della classe 4M
 Vai al mercato e compra un litro di latte, se hanno le uova prendine sei
 ![](https://swaltersky.files.wordpress.com/2012/02/tire-swing-cartoon.jpg)
 
+## Diagrammi delle classi
+![](diagramma%20della%20classe%20ContoCorrente.jpg)
+
