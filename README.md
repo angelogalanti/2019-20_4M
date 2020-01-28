@@ -8,6 +8,10 @@ Repository di Informatica della classe 4M
 
 ## [Link](https://docs.google.com/document/d/1xgcI_vC2KKHlk8-1fHTsrljq0jJsOBPXKFEcXeMKWXs/edit?usp=sharing) **Verifica 24/01/19**
 
+## [Link](https://docs.google.com/document/d/1qGkCy6RHydsXZS8TcWLtMGOdlpoIxiKRC1E6MP8Pxeg/edit?usp=sharing) **Recupero Verifica 28/01/19**
+
+
+
 ## Introduzione
 - [concetti fondamentali dell'informatica](http://aptiva.v2.cs.unibo.it/wiki/index.php/Concetti_fondamentali_dell%27Informatica)
 
