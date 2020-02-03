@@ -22,7 +22,7 @@ Vai al mercato e compra un litro di latte, se hanno le uova prendine sei
 ## Diagrammi delle classi
 ![](diagramma%20della%20classe%20ContoCorrente.jpg)
 
-**Esercizio 24/01/20** <br>
+**Esercizio: Officine** <br>
 Produrre il diagramma UML corrispondente ad un'applicazione riguardante un insieme di officine,
 facendo riferimento alle seguenti specifiche:
 • Delle officine interessano: nome, indirizzo, numero di dipendenti, dipendenti (con l'informazione
@@ -32,3 +32,6 @@ su quanti anni di servizio), e direttore. Si noti che ogni officina ha uno ed un
 • Dei veicoli interessano: modello, tipo, targa, anno di immatricolazione, e proprietario. Ogni veicolo ha uno ed un solo proprietario.
 • Dei proprietari di veicoli interessano: codice fiscale, indirizzo, e numeri di telefono.
 
+
+**Esercizio: Dipartimenti Aziendali** <br>
+Una certa azienda è costituita da diversi dipartimenti, ad ognuno dei quali afferisce un certo insieme di impiegati. Ogni impiegato (del quale interessa il nome, l’età, lo stipendio) afferisce esattamente ad un dipartimento. Dei dipartimenti interessa il nome, il numero di telefono, ed il direttore. Gli impiegati partecipano a vari progetti aziendali, dei quali interessa il nome ed il budget. 
