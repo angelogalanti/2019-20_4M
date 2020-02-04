@@ -35,3 +35,6 @@ su quanti anni di servizio), e direttore. Si noti che ogni officina ha uno ed un
 
 **Esercizio: Dipartimenti Aziendali** <br>
 Una certa azienda è costituita da diversi dipartimenti, ad ognuno dei quali afferisce un certo insieme di impiegati. Ogni impiegato (del quale interessa il nome, l’età, lo stipendio) afferisce esattamente ad un dipartimento. Dei dipartimenti interessa il nome, il numero di telefono, ed il direttore. Gli impiegati partecipano a vari progetti aziendali, dei quali interessa il nome ed il budget. 
+
+**Esercizio: Ristorante** <br>
+In un ristorante sono entità di interesse i clienti, i tavoli (con il relativo numero di posti), le prenotazioni (effettuate dai clienti per un certo giorno ed ora, ed un certo numero di persone) alle quali viene assegnato uno o più tavoli, i camerieri (che servono i clienti al tavolo) ed i conti relativi ai vari tavoli (contenenti i prezzi delle singole portate ordinate, e le loro quantità).Dei clienti interessa il nome e numero di telefono, mentre dei camerieri interessa nome e anni di servizio.Infine delle portate interessa il nome ed il prezzo unitario.
