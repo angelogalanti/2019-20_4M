@@ -38,3 +38,9 @@ Una certa azienda è costituita da diversi dipartimenti, ad ognuno dei quali aff
 
 **Esercizio: Ristorante** <br>
 In un ristorante sono entità di interesse i clienti, i tavoli (con il relativo numero di posti), le prenotazioni (effettuate dai clienti per un certo giorno ed ora, ed un certo numero di persone) alle quali viene assegnato uno o più tavoli, i camerieri (che servono i clienti al tavolo) ed i conti relativi ai vari tavoli (contenenti i prezzi delle singole portate ordinate, e le loro quantità).Dei clienti interessa il nome e numero di telefono, mentre dei camerieri interessa nome e anni di servizio.Infine delle portate interessa il nome ed il prezzo unitario.
+
+**Esercizio: Università** <br>
+Degli studenti interessa il numero di matricola, la data di nascita, il luogo di nascita (città e regione), la facoltà in cui è iscritto (con l’anno di iscrizione), e i corsi superati.
+Dei professori interessa il nome, la data di nascita, Il luogo di nascita e il corso insegnato.
+Delle facoltà interessa il nome ed il tipo (scientifica, letteraria, ecc..).
+Dei corsi interessa il codice, il numero di ore di lezione, e la facoltà a cui appartiene.
